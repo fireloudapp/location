@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocationParser", "LocationParser\LocationParser.csproj", "{DBEF067E-9B78-4941-B00B-82767FF5FF34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBEF067E-9B78-4941-B00B-82767FF5FF34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBEF067E-9B78-4941-B00B-82767FF5FF34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBEF067E-9B78-4941-B00B-82767FF5FF34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBEF067E-9B78-4941-B00B-82767FF5FF34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
